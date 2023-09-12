@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+PROFESSIONAL PROFILE
+
+ [LinkedIn](https://www.linkedin.com/in/abi-jacob/)
 
 <!--
 **abijacob/abijacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
