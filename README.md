@@ -2,7 +2,9 @@
 
 ![Developer Animation](https://github.com/abijacob/abijacob/blob/main/Animation%20-%201718001123239%20(1).gif)
 
-## About Me &nbsp; &nbsp; 🌟  &nbsp; &nbsp;📎 [LinkedIn Profile](https://www.linkedin.com/in/abi-jacob) &nbsp; &nbsp; &nbsp; 📄 [Technical Resume](https://github.com/abijacob/abijacob/blob/main/Abi_Jacob_Resume_2024.pdf) &nbsp; &nbsp; &nbsp; ✉️ [Email Address](mailto:abijacob92@gmail.com) 
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;📎 [LinkedIn Profile](https://www.linkedin.com/in/abi-jacob) &nbsp; &nbsp; &nbsp; 📄 [Technical Resume](https://github.com/abijacob/abijacob/blob/main/Abi_Jacob_Resume_2024.pdf) &nbsp; &nbsp; &nbsp; ✉️ [Email Address](mailto:abijacob92@gmail.com) 
+
+## About Me &nbsp; &nbsp; 🌟 
 
 Hi there! I'm Abi Jacob, a passionate software developer and tech enthusiast. I love crafting elegant solutions to complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
@@ -14,45 +16,32 @@ Hi there! I'm Abi Jacob, a passionate software developer and tech enthusiast. I 
 
 ## My Tech Stack 🛠️
 
-Languages:
-  - JavaScript
-  - Python
-  - Swift
-  - Java
-  - C++
-    
-Frameworks:
-  - React
-  - Node.js
-  - Flutter
-  - Spring Boot
+### Languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Tools:
-  - Git & GitHub
-  - VS Code
-  - Xcode
+### Frameworks:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Swift UI](https://img.shields.io/badge/Swift_UI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### Databases:
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
+---
 
-
-
-
-<!--
-PROFESSIONAL PROFILE
-
- [LinkedIn](https://www.linkedin.com/in/abi-jacob/)
--->
-<!--
-**abijacob/abijacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thank you for visiting my GitHub profile!** Feel free to explore my repositories and get in touch if you want to collaborate on a project or just chat about tech.
