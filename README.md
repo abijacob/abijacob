@@ -4,8 +4,6 @@
 
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;📎 [LinkedIn Profile](https://www.linkedin.com/in/abi-jacob) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✉️ [Email Address](mailto:abijacob92@gmail.com) 
 
-## 📄   [Technical Resume](https://github.com/abijacob/abijacob/blob/main/Abi_Jacob_Resume_2024.pdf)
-
 ## About Me &nbsp; &nbsp; 🌟 
 
 Hi there! I'm Abi Jacob, a passionate software developer and tech enthusiast. I love crafting elegant solutions to complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
