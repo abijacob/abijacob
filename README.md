@@ -2,9 +2,9 @@
 
 ![Developer Animation](https://github.com/abijacob/abijacob/blob/main/Animation%20-%201718001123239%20(1).gif)
 
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;📎 [LinkedIn Profile](https://www.linkedin.com/in/abi-jacob) &nbsp; &nbsp; &nbsp; 📄  &nbsp; &nbsp; &nbsp; ✉️ [Email Address](mailto:abijacob92@gmail.com) 
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;📎 [LinkedIn Profile](https://www.linkedin.com/in/abi-jacob) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✉️ [Email Address](mailto:abijacob92@gmail.com) 
 
-## [Technical Resume](https://github.com/abijacob/abijacob/blob/main/Abi_Jacob_Resume_2024.pdf)
+## 📄   [Technical Resume](https://github.com/abijacob/abijacob/blob/main/Abi_Jacob_Resume_2024.pdf)
 
 ## About Me &nbsp; &nbsp; 🌟 
 
